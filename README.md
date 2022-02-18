@@ -10,9 +10,13 @@ through GitHub API calls
 
 ### Test scenario that should be implemented:
 
-1. Create some comment for commit a28ac0baa982be9b913caf40e071c8ef84fee4c0 of this repository
+1. Check that Auth is working as expected, and the commit is found.
 
-2. Check if the comment was created
+2. Create some comment for commit a28ac0baa982be9b913caf40e071c8ef84fee4c0 of this repository and validate that it was created.
+
+3. Delete a comment from from the commit, and verify that it does not exist. 
+
+4. Check that you are unable to create a comment without any text i.e comment=""  
 
 ### Take into consideration:
 
