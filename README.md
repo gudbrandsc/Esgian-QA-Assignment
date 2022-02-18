@@ -10,7 +10,7 @@ through GitHub API calls
 
 ### Test scenario that should be implemented:
 
-1. Create some comment for commit f0e6e67a971016123fea7b2a857e6f8e46fa409d of this repository
+1. Create some comment for commit a28ac0baa982be9b913caf40e071c8ef84fee4c0 of this repository
 
 2. Check if the comment was created
 
