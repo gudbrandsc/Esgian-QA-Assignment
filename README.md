@@ -1,7 +1,5 @@
 # Esgian-QA-Assignment
 
-# Recruitment task for testers
-
 Create Python script that will test following GitHub functionality:
 * listing commit comments
 * creating commit comments
@@ -17,6 +15,8 @@ through GitHub API calls
 3. Delete a comment from from the commit, and verify that it does not exist. 
 
 4. Check that you are unable to create a comment without any text i.e comment=""  
+
+Feel free to add more testcases if you want(Not Required).
 
 ### Take into consideration:
 
